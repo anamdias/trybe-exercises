@@ -2,3 +2,5 @@
 - bash
 - git
 
+- HTML
+- CSS
